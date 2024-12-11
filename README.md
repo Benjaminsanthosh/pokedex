@@ -62,3 +62,4 @@ Pokedex app built with Flutter
 
 All the code available under the MIT + Apache 2.0. licenses. See [LICENSE](LICENSE).
 "# pokedex" 
+"# pokedex" 
